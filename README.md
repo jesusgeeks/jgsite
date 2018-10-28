@@ -1,2 +1,2 @@
 # jgsite
-JesusGeeks repo and site pages
+JesusGeeks repo and site code
